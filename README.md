@@ -2,20 +2,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,100:ff6b35&height=200&section=header&text=Yağızhan%20Dinçkurt&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=YTU%20%7C%20C%2B%2B%20%7C%20Physics%20MD&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 ## 🛠️ Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
-  
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge\&logo=platformio\&logoColor=white)
+
 ## 🚀 Featured Projects
 
 </div>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 🐺 [WolfEngine](https://github.com/yagizdkurt/WolfEngine)
 
@@ -26,23 +28,24 @@ A from-scratch C++ game engine for ESP32. Full game loop, component based gameob
 ![C++](https://img.shields.io/badge/C++-120%25-004482?style=flat-square)
 ![Caffeine](https://img.shields.io/badge/Caffeine-150%25-6F4E37?style=flat-square)
 ![License](https://img.shields.io/github/license/yagizdkurt/WolfEngine?style=flat-square&color=blue&label=License)
-![Topics](https://img.shields.io/badge/ESP32-game--engine-E7352C?style=flat-square)
 
 **Key Features:**
+
 - 🎮 Component-based GameObject system
 - 🎨 Automated graphics rendering built in
-- 📷 Smooth camera with world↔screen coords
+- 📷 Smooth camera with world↔screen coordinates
 - 🔌 Pluggable display driver interface
-- 🔊 Note based sfx/music system
+- 🔊 Note-based SFX/music system
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+
+<td width="50%" valign="top">
 
 ### ☢️ [RadCat](https://github.com/yagizdkurt/RadCat)
 
 **Open-Source Radiation Device Automation Framework**
 
-Connect, control, and automate nuclear instruments — detectors, X-ray sources, and more — all from one modular system.
+An open-source framework for automating radiation detectors, X-ray sources, and other nuclear instrumentation.
 
 ![C](https://img.shields.io/badge/C-73%25-00599C?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-23%25-004482?style=flat-square)
@@ -52,15 +55,59 @@ Connect, control, and automate nuclear instruments — detectors, X-ray sources,
 ![Total Nuclear Disaster](https://img.shields.io/badge/Total%20Nuclear%20Disaster-0-2ea44f?style=flat-square)
 
 **Key Features:**
+
 - 🧩 Modular device architecture
-- 🔌 Define your instruments with plug-in components
-- ⏩ Automated Connection / Data IO
-- 👥 Community-driven device definitions
+- 🔌 Plug-in based instrument definitions
+- ⏩ Automated connection & data I/O
+- 👥 Community-driven device support
 - 🌲 No radiation leaks *
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📜 [RendScroll](https://github.com/yagizdkurt/RendScroll)
+
+**Markdown-Powered D&D Campaign Renderer**
+
+Transform plain Markdown into a beautiful Player's Handbook-inspired Dungeon Master's screen. Write adventures naturally, then render them into an elegant offline web companion.
+
+![Python](https://img.shields.io/badge/Python-55%25-3776AB?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=flat-square)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-20%25-E34F26?style=flat-square)
+![License](https://img.shields.io/github/license/yagizdkurt/RendScroll?style=flat-square&color=blue)
+![Player Plans](https://img.shields.io/badge/Player%20Plans-0%20Survived-success?style=flat-square)
+
+**Key Features:**
+
+- 📖 Player's Handbook-inspired parchment renderer
+- ✨ Custom Markdown cards for NPCs, items, combat & skill checks
+- 📰 Intelligent two-column layout for quick reference
+- ⚡ One-click launcher with automatic diagnostics
+- 🌐 Fully offline, local-first experience
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚧 Coming Soon
+
+**The next flagship project.**
+
+Something interesting is brewing...
+
+🧪
+
+</td>
+</tr>
+</table>
+
 
 <sub>*yet</sub>
 
@@ -73,6 +120,7 @@ Connect, control, and automate nuclear instruments — detectors, X-ray sources,
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagizdkurt&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ff6b35&ring=ff6b35&fire=cc0000&currStreakLabel=ff6b35&dates=c9d1d9&sideLabels=ff6b35" height="150"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:cc0000&height=100&section=footer" width="100%"/>
-  
-[![GitHub](https://img.shields.io/badge/GitHub-yagizdkurt-181717?style=for-the-badge&logo=github)](https://github.com/yagizdkurt)
+
+[![GitHub](https://img.shields.io/badge/GitHub-yagizdkurt-181717?style=for-the-badge\&logo=github)](https://github.com/yagizdkurt)
+
 </div>
