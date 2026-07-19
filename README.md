@@ -27,7 +27,6 @@ A from-scratch C++ game engine for ESP32. Full game loop, component based gameob
 
 ![C++](https://img.shields.io/badge/C++-120%25-004482?style=flat-square)
 ![Caffeine](https://img.shields.io/badge/Caffeine-150%25-6F4E37?style=flat-square)
-![License](https://img.shields.io/github/license/yagizdkurt/WolfEngine?style=flat-square&color=blue&label=License)
 
 **Key Features:**
 
@@ -50,7 +49,6 @@ An open-source framework for automating radiation detectors, X-ray sources, and 
 ![C](https://img.shields.io/badge/C-73%25-00599C?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-23%25-004482?style=flat-square)
 ![Radiation](https://img.shields.io/badge/Radiation-100%25-ff4444?style=flat-square)
-![License](https://img.shields.io/github/license/yagizdkurt/RadCat?style=flat-square&color=red)
 ![Forks](https://img.shields.io/github/forks/yagizdkurt/RadCat?style=flat-square&color=orange)
 ![Total Nuclear Disaster](https://img.shields.io/badge/Total%20Nuclear%20Disaster-0-2ea44f?style=flat-square)
 
@@ -81,7 +79,6 @@ Transform plain Markdown into a beautiful Player's Handbook-inspired Dungeon Mas
 ![Python](https://img.shields.io/badge/Python-55%25-3776AB?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=flat-square)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-20%25-E34F26?style=flat-square)
-![License](https://img.shields.io/github/license/yagizdkurt/RendScroll?style=flat-square&color=blue)
 ![Player Plans](https://img.shields.io/badge/Player%20Plans-0%20Survived-success?style=flat-square)
 
 **Key Features:**
