@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,100:ff6b35&height=200&section=header&text=Yağızhan%20Dinçkurt&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=YTU%20%7C%20C%2B%2B%20%7C%20Physics%20MD&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,100:ff6b35&height=200&section=header&text=Yağızhan%20Dinçkurt&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=YTU%20%7C%20C%2B%2B%20Fan%20%7C%20Physics%20MD&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 ## 🛠️ Tech Stack
 
